@@ -1,0 +1,27 @@
+
+html
+{
+	scroll-behavior: smooth;
+}
+
+#databat
+{
+	font-family: 'Quicksand';
+}
+
+a, p
+{
+	text-decoration: none;
+	color : #303030;
+}
+
+#img_div, #help_div{
+	text-align: center;
+	display: none;
+}
+
+#bat
+{
+
+	width: 75px;
+}
